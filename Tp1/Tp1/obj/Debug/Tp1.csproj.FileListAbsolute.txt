@@ -1,0 +1,7 @@
+C:\Users\Franco Rosi\source\repos\Tp1\Tp1\bin\Debug\Tp1.exe.config
+C:\Users\Franco Rosi\source\repos\Tp1\Tp1\bin\Debug\Tp1.exe
+C:\Users\Franco Rosi\source\repos\Tp1\Tp1\bin\Debug\Tp1.pdb
+C:\Users\Franco Rosi\source\repos\Tp1\Tp1\obj\Debug\Tp1.csprojResolveAssemblyReference.cache
+C:\Users\Franco Rosi\source\repos\Tp1\Tp1\obj\Debug\Tp1.csproj.CoreCompileInputs.cache
+C:\Users\Franco Rosi\source\repos\Tp1\Tp1\obj\Debug\Tp1.exe
+C:\Users\Franco Rosi\source\repos\Tp1\Tp1\obj\Debug\Tp1.pdb
